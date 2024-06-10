@@ -9,12 +9,11 @@ The reason I like development is that I enjoy the process of communicating with 
 ## Currently working on...
 ### Gomoku against AI(based on MinMax Algorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
-### Metaverse Dev Contest: Unity Dev & Game Script Writing
+### Metaverse Dev Contest: Unity Dev & Game Script Writing(On Progress)
+
 
 ## Projects I've finished working on...
-### in 42 Seoul
-### IRC server using socket programming
-### shell that functions like bash 
+### 42 Seoul: Project-Based Software Learning Program
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=IRCserv&theme=white)](https://github.com/GatsLee/IRCserv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=TINYshell&theme=white)](https://github.com/GatsLee/TINYshell)
 
