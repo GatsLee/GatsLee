@@ -14,8 +14,8 @@ The reason I like development is that I enjoy the process of communicating with 
 ## Projects I've finished working on...
 ### in 42 Seoul
 ### IRC server using socket programming
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=IRCserv&theme=white)](https://github.com/GatsLee/IRCserv)
 ### shell that functions like bash 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=IRCserv&theme=white)](https://github.com/GatsLee/IRCserv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=TINYshell&theme=white)](https://github.com/GatsLee/TINYshell)
 
 ## Later I'm going to do...
