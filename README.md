@@ -1,16 +1,30 @@
-## Hi there 👋
+# HI, I'm Joon Yeol, Lee developing game!
 
-<!--
-**GatsLee/GatsLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love games and development!
 
-Here are some ideas to get you started:
+The reason I like games is that through games, I can implement algorithms and express my thoughts.
+The reason I like development is that I enjoy the process of communicating with other team members and creating a final product within a project that progresses in units.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Currently working on...
+## Gomoku against AI(based on MinMax Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
+## Metaverse Dev Contest: Unity Dev & Game Script Writing
+
+# Projects I've finished working on...
+## in 42 Seoul
+### IRC server using socket programming
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=IRCserv&theme=white)](https://github.com/GatsLee/IRCserv)
+### shell that functions like bash 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=TINYshell&theme=white)](https://github.com/GatsLee/TINYshell)
+ 
+<-- ### Personal Projects 
 -->
+
+
+## Later I'm going to do...
+
+Game based on Unreal Engine: mainly on simple boss fight
+
+RayTracer implemented with SFML
+
+
