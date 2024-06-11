@@ -8,8 +8,11 @@ The reason I like development is that I enjoy the process of communicating with 
 
 ## Currently working on...
 *Gomoku against AI(based on MinMax Algorithm)*
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
+
 *42Seoul Open Project(Developer Friendly Game Platform): Small-sized Game Developer*
+
 *Metaverse Dev Contest: Unity Dev & Game Script Writing*
 
 ## Projects I've finished working on...
@@ -20,5 +23,6 @@ The reason I like development is that I enjoy the process of communicating with 
 ## Later I'm going to do...
 
 *Make RayTracer implemented with OpenGL(or DirectX)(Jun-Jul 2024)*
+
 *[Take part in GameJam MechJam V(Jul 2024)](https://itch.io/jam/mechjam5)*
 
