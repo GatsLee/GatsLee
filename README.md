@@ -17,7 +17,6 @@ The reason I like development is that I enjoy the process of communicating with 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=TINYshell&theme=white)](https://github.com/GatsLee/TINYshell)
 
 ### Personal Projects
-*Gomoku against AI(based on MinMax Algorithm)*
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
 
 
