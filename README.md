@@ -16,6 +16,11 @@ The reason I like development is that I enjoy the process of communicating with 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=IRCserv&theme=white)](https://github.com/GatsLee/IRCserv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=TINYshell&theme=white)](https://github.com/GatsLee/TINYshell)
 
+### Personal Projects
+*Gomoku against AI(based on MinMax Algorithm)*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
+
+
 ## Later I'm going to do...
 
 *Make RayTracer implemented with OpenGL(or DirectX)(Jun-Jul 2024)*
