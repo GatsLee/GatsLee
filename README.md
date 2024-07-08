@@ -18,7 +18,7 @@ The reason I like development is that I enjoy the process of communicating with 
 
 ### Personal Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_Unity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_Unity&theme=white)](https://github.com/GatsLee/Gomoku_Unity)
 
 ## Later I'm going to do...
 
