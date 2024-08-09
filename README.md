@@ -9,8 +9,6 @@ The reason I like development is that I enjoy the process of communicating with 
 ## Currently working on...
 *42Seoul Open Project(Developer Friendly Game Platform): Small-sized Game Developer*
 
-*Metaverse Dev Contest: Unity Dev & Game Script Writing*
-
 ## Projects I've finished working on...
 ### 42 Seoul: Project-Based Software Learning Program
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=IRCserv&theme=white)](https://github.com/GatsLee/IRCserv)
@@ -19,10 +17,8 @@ The reason I like development is that I enjoy the process of communicating with 
 ### Personal Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_Unity&theme=white)](https://github.com/GatsLee/Gomoku_Unity)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=ArcheryNTuho&theme=white)](https://github.com/GatsLee/ArcheryNTuho)
 
 ## Later I'm going to do...
 
-*Make RayTracer implemented with OpenGL(or DirectX)(Jun-Jul 2024)*
-
-*[Take part in GameJam MechJam V(Jul 2024)](https://itch.io/jam/mechjam5)*
-
+TBD!!!
