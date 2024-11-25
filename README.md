@@ -18,7 +18,7 @@ The reason I like development is that I enjoy the process of communicating with 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_SFML&theme=white)](https://github.com/GatsLee/Gomoku_SFML)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Gomoku_Unity&theme=white)](https://github.com/GatsLee/Gomoku_Unity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=ArcheryNTuho&theme=white)](https://github.com/GatsLee/ArcheryNTuho)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=ArcheryNTuho&theme=white)](https://github.com/GatsLee/Simple3DModelViewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GatsLee&repo=Simple3DModelViewer&theme=white)](https://github.com/GatsLee/Simple3DModelViewer)
 
 ## Later I'm going to do...
 
