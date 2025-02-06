@@ -8,6 +8,7 @@ The reason I like development is that I enjoy the process of communicating with 
 
 ## Currently working on...
 *UltInvest: automated stock investment program based on korea investment api*
+
 *TakeAShot: single-player FPS game based on DirectX11 3D & Win API*
 
 ## Projects I've finished working on...
