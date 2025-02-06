@@ -7,7 +7,8 @@ The reason I like games is that through making games, I can implement logics(alg
 The reason I like development is that I enjoy the process of communicating with team members and creating a final product within a project that progresses in unit.
 
 ## Currently working on...
-*42Seoul Open Project(Developer Friendly Game Platform): Small-sized Game Developer*
+*UltInvest: automated stock investment program based on korea investment api*
+*TakeAShot: single-player FPS game based on DirectX11 3D & Win API*
 
 ## Projects I've finished working on...
 ### 42 Seoul: Project-Based Software Learning Program
