@@ -1,12 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,50:5E5CE6,100:FF6B6B&height=160&section=header)
-
 # GatsLee
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=0A84FF&center=true&vCenter=true&width=520&lines=AI+Engineer;Agent+Service+Builder;Solo+Shipper)](https://git.io/typing-svg)
 
-**Solo builder shipping AI products across iOS, macOS, and home infrastructure.**
+**Solo builder shipping AI products across iOS, macOS, and home infrastructure.\n**
 iOS · macOS · 홈서버를 넘나들며 AI 제품을 직접 만들고 출시하는 1인 빌더.
 
 [![Blog](https://img.shields.io/badge/blog-gatslee.com-0A84FF?style=for-the-badge&logo=rss&logoColor=white)](https://blog.gatslee.com)
