@@ -20,7 +20,7 @@
 <tr>
 <td align="center" width="160">
 
-### <br>Calyx
+### Calyx
 
 ![status](https://img.shields.io/badge/status-TestFlight-34C759?style=flat-square)
 
@@ -38,7 +38,7 @@ One AI agent looking after sleep · meals · movement · rest · focus.
 <tr>
 <td align="center">
 
-### <br>Alfred
+### Alfred
 
 ![tests](https://img.shields.io/badge/tests-386_passing-34C759?style=flat-square)
 
@@ -56,7 +56,7 @@ A local-first AI butler that remembers everything — voice · photos · chats �
 <tr>
 <td align="center">
 
-### <br>Gats Lab
+### Gats Lab
 
 ![infra](https://img.shields.io/badge/home_server-always_on-FF9F0A?style=flat-square)
 
