@@ -1,55 +1,59 @@
-# 🏛️ The Gats Lab: 24/7 AI Workforce
-> Building a fully autonomous agency run by AI agents on a hybrid home server infrastructure.
+# GatsLee — AI Engineer & Builder
 
-## 🚀 The Mission
-지하실에서 동작하는 **24/7 자율 AI 에이전시** 구축을 목표로 합니다. 
-단순한 자동화를 넘어, **Local LLM(Mac Studio)**의 프라이버시/연산 성능과 **Cloud LLM API**의 지능을 적절히 조합하여 비용 대비 최적의 성능(Cost-Effective Intelligence)을 뽑아내는 하이브리드 인프라를 지향합니다.
+Solo builder shipping AI products across iOS, macOS, and home infrastructure.
+iOS · macOS · 홈서버를 넘나들며 AI 제품을 직접 만들고 출시하는 1인 빌더.
+
+📝 [blog.gatslee.com](https://blog.gatslee.com) — 내가 만드는 모든 것의 기록
 
 ---
 
-## 🏗️ Architecture: Hybrid AI Setup
-Gats Lab은 서비스 계층과 연산 계층이 분리된 효율적인 구조를 가집니다.
+## 🚀 Featured Projects
 
-```mermaid
-graph LR
-    classDef default fill:#1e293b,stroke:#94a3b8,stroke-width:1px,color:#fff
-    classDef external fill:#000,stroke:#fff,stroke-width:2px,color:#fff
-    classDef gateway fill:#b45309,stroke:#fcd34d,stroke-width:2px,color:#fff
-    classDef app fill:#065f46,stroke:#34d399,stroke-width:2px,color:#fff
-    classDef agent fill:#581c87,stroke:#c084fc,stroke-width:2px,color:#fff
-    classDef ai_engine fill:#312e81,stroke:#818cf8,stroke-width:2px,color:#fff
-    classDef infra fill:#334155,stroke:#64748b,stroke-width:1px,color:#e2e8f0
+### [Calyx](https://blog.gatslee.com/products/calyx) — Well-being Calendar Agent
+> One AI agent looking after your entire calendar — sleep, meals, movement, rest, focus.
+> 수면 · 식사 · 운동 · 휴식 · 집중 다섯 영역을 동시에 보는 AI 캘린더 에이전트.
 
-    User((User / Internet)):::external
+- **Stack**: Swift · SwiftUI · iOS 17+ · watchOS · FastAPI · SQLite (GRDB) · HealthKit · EventKit · StoreKit 2
+- **Status**: TestFlight beta (v0.2)
 
-    subgraph Home_Server ["🏠 Home Server (Main Host)"]
-        direction TB
-        subgraph Service_Layer ["Service & Logic Layer"]
-            direction LR
-            NPM[/"Nginx Proxy Manager"/]:::gateway
-            subgraph Apps ["Web Services"]
-                direction TB
-                BlogApp["Gats Lab Logs"]:::app
-                Portfolio["Portfolio"]:::app
-            end
-            GatsAI["🤖 Gats AI Agent<br/>(Orchestrator)"]:::agent
-        end
-        subgraph Infra_Layer ["Infrastructure (Docker)"]
-            direction LR
-            Portainer["Portainer"]:::infra
-            Prometheus["Prometheus"]:::infra
-            Grafana["Grafana"]:::infra
-        end
-    end
+### [Alfred](https://blog.gatslee.com/about) — Personal AI Archive Agent
+> A local-first AI butler that remembers everything — voice, photos, chats, files.
+> 음성 · 카메라 · 키보드 · 파일 네 채널로 모든 것을 기억하는 로컬 퍼스트 AI 집사.
 
-    subgraph Mac_Studio ["🍎 Mac Studio (AI Brain)"]
-        direction TB
-        LLM_Engine["Local LLM Engine<br/>(Qwen 2.5 / vLLM)"]:::ai_engine
-        AI_Workflow["Hybrid Workflow<br/>(Local + Cloud API)"]:::ai_engine
-    end
+- **Stack**: Python · Ollama (Gemma) · LightRAG · SQLite / PostgreSQL · Textual TUI · MCP
+- **Status**: Active development (386 tests passing)
 
-    User ==> NPM
-    NPM --> BlogApp
-    NPM --> Portfolio
-    GatsAI <== "Inference API" ==> LLM_Engine
-    linkStyle default stroke:#22d3ee,stroke-width:2px
+### [The Gats Lab](https://blog.gatslee.com/) — My Living Portfolio
+> blog.gatslee.com itself is a product I designed and ship end-to-end.
+> 블로그 자체가 살아있는 포트폴리오 — 설계·구현·운영 모두 혼자.
+
+- **직접 설계한 RAG 아키텍처** — FAQ 라우터 → 벡터 검색 → LLM 생성, 3티어 파이프라인을 처음부터 구현
+- **GPU 인프라 직접 운영** — Ollama + NVIDIA GPU 컨테이너를 홈서버에 구성, 동시성 제어와 레이트 리밋까지
+- **풀스택 단독 구현** — 프론트엔드(블록 에디터, 애니메이션, i18n) · 백엔드(인증, API, 마이그레이션) · 인프라(Docker, 배포 자동화)
+- **Living product** — 방문자가 챗봇에 질문하고, 커밋 히스토리와 빌드 타임라인이 실시간 반영
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages** — Swift · Python · TypeScript
+- **AI / ML** — LLM orchestration · RAG (LightRAG) · Ollama · vLLM · MCP
+- **iOS / macOS** — SwiftUI · `@Observable` (iOS 17+) · HealthKit · EventKit · StoreKit 2 · watchOS
+- **Backend** — FastAPI · SQLite (GRDB) · PostgreSQL · Google Cloud Run
+- **Infra** — Docker · Nginx Proxy Manager · NVIDIA GPU · Portainer · Prometheus · Grafana
+
+---
+
+## ⚒️ Now Building
+
+- **Calyx v0.2** — Diet / Workout / Relax 모듈 + Apple Watch 앱 + StoreKit 2 Pro
+- **Alfred** — 민감도 라우터 + ReAct 로컬 에이전트 확장
+- **The Gats Lab** — RAG 파이프라인 고도화 + 포트폴리오 UX
+
+---
+
+## 📫 Contact
+
+- 📝 Blog — [blog.gatslee.com](https://blog.gatslee.com)
+- ✉️ Email — [naanthonylee@gmail.com](mailto:naanthonylee@gmail.com)
+- 💼 LinkedIn — [joon-yeol-lee](https://www.linkedin.com/in/joon-yeol-lee-567421281/)
